@@ -1,41 +1,39 @@
 # 🌌 Cricital Zero
 
-> _"From zero, becoming cricital."_  
-> Repository ini berisi project, eksperimen, dan ide kreatif dengan nuansa **anime & kartun** 🎨✨
+> *"Starting from zero, becoming cricital."*  
+> A creative repository focused on **technology, experiments, and ideas** inspired by **anime & cartoon aesthetics**.
 
 ---
 
-## 🧩 Tentang Cricital Zero
-**Cricital Zero** adalah tempat berkumpulnya:
-- 💻 Project coding & eksperimen teknologi  
-- 🎮 Ide kreatif terinspirasi anime dan kartun  
-- 🧠 Perjalanan belajar dari nol sampai level “cricital”
+## 🧩 About Cricital Zero
+**Cricital Zero** is a personal project hub where learning meets creativity:
+- 💻 Coding & technology experiments  
+- 🎨 Anime & cartoon–inspired visuals  
+- 🧠 Learning from absolute zero to a “cricital” level  
 
-Cocok untuk:
-- Pelajar & pemula  
-- Kreator yang suka eksplor  
-- Wibu produktif 😆  
+This repository is made for:
+- Students & beginners  
+- Curious creators  
+- Anime lovers who want to be productive 🚀  
 
 ---
 
-## 🎨 Preview (Gambar)
+## 🎨 Visual Preview (Images)
 
 <p align="center">
-  <img src="https://your-image-link-here.png" width="280"/>
-  <img src="https://your-image-link-here.png" width="280"/>
+  <img src="https://images.unsplash.com/photo-1606112219348-204d7d8b94ee" width="280"/>
+  <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e" width="280"/>
+  <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba" width="280"/>
 </p>
 
-> 📌 Tips:
-> - Upload gambar ke GitHub lalu pakai link-nya  
-> - Atau simpan di folder `/assets`
+> All images are public and visible directly on GitHub.
 
 ---
 
 ## 🎥 Video Showcase
 
-▶️ **Demo / Showcase Video**  
+▶️ **Anime / Cartoon Style Inspiration**
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/8ugaeA-nMTc/0.jpg)](https://www.youtube.com/watch?v=8ugaeA-nMTc)
 
-Atau link langsung:
-
+Or direct link:
